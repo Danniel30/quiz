@@ -12,8 +12,8 @@ const perguntas = [
     },
     //PERGUNTA 1
     {
-        pergunta: "Em que ano o Brasil foi descoberto?",
-        respostas: ["1498", "1500", "1375", "1828"],
+        pergunta: "Quanto tempo demorou para criar JavaScript?",
+        respostas: ["10 anos", "10 dias", "20 dias", "1 ano"],
         correta: "resp1"
     },
     //PERGUNTA 2
@@ -36,8 +36,8 @@ const perguntas = [
     },
     //PERGUNTA 4
     {
-        pergunta: "Quantas vezes o Brasil não foi para copa?",
-        respostas: ["Sempre foi", "2", "3", "1"],
+        pergunta: "Quem foi o criador do Javascript?",
+        respostas: ["Brendan Eich", "Danniel de Albuquerque", "Bill Gates", "Fabrício Bloisi"],
         correta: "resp0"
     }
 ];
