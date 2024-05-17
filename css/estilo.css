@@ -26,7 +26,7 @@ button {
 }
 
 .resposta:hover {
-    background: yellow;
+    background: rgb(218, 218, 25);
 }
 
 .resposta.selecionada {
